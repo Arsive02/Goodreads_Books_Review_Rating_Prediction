@@ -10,6 +10,8 @@ In this competition we work with a challenging dataset consisting reviews from t
 The dataset of this competition is taken from UCSD Book Graph.
 If you have any questions or find any bugs regarding these datasets, feel free to contact Mengting Wan (m5wan@ucsd.edu).
 
+Dataset link: [Goodreads 2022-2023 dataset](https://www.kaggle.com/competitions/goodreads-books-reviews-290312/data)
+
 ## Citations
 please cite the following papers:
 
